@@ -8,10 +8,10 @@ function App() {
       <div className='Header'>
         <h2>John's Kitchen</h2>
         <nav>
-          <a href = "#Home">Home</a>
-          <a href = "#About">About</a>
-          <a href = "#Menu">Menu</a>
-          <a href = "#Contact">Contact</a>
+          <a href = "Home">#Home</a>
+          <a href = "About">#Contact</a>
+          <a href = "Menu">#Menu</a>
+          <a href = "Contact">#Contact</a>
         </nav>
       </div>
 
@@ -21,6 +21,7 @@ function App() {
       </div>
 
       <div className='Menu Section'>
+        <h2>Menu</h2>
         <ul>
           <li>Hyderabadi Biryani-Must have at John's kitchen</li>
           <li>fish fry - perfectly crisp</li>
