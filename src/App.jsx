@@ -29,7 +29,7 @@ function App() {
       </div>
 
       <div className='Footer'>
-        <Footer>Contact us on 9743500415</Footer>
+        <footer>Contact us on 9743500415</footer>
       </div>
     </div>
   )
